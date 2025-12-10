@@ -1,6 +1,6 @@
 # TypeScript Starter Template
 
-**For extremely basic (no build) frontend projects only**
+**WARNING: This is for extremely basic (no build) frontend projects only**
 
 ## Install
 

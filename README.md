@@ -1,8 +1,26 @@
-# Simple Setup
+# TypeScript Starter Template
+
+## Install
+
+- Visit the GitHub repo for this template
+- click "Use this template" > "Create a new repository"
+- follow the GitHub instructions to clone the new repo to your local system.
+- cd into the new repo's project folder
+- run `npm install`
+
+## Usage
+
+- to write TypeScript, go to `src/script.ts`
+- to write HTML, go to `public/index.html`
+- to write CSS, go to `public/link.css`
+- for local development, run `npm run dev`
+- compiled JavaScript files can be found in `dist/`
+
+## My notes on how I created the starter template
 
 ```
-mkdir ts-simple
-cd ts-simple
+mkdir typescript-starter-project
+cd typescript-starter-project
 mkdir src/ dist/ public/
 npm init -y
 

@@ -1,5 +1,7 @@
 # TypeScript Starter Template
 
+**For extremely basic (no build) frontend projects only**
+
 ## Install
 
 - Visit the GitHub repo for this template
@@ -51,3 +53,4 @@ npx eslint .
 
 # run prettier
 npx prettier . --write
+```

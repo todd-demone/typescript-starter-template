@@ -2,7 +2,7 @@
   "name": "typescript-starter-template",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/index.js",
+  "main": "dist/script.js",
   "scripts": {
     "clean": "rm -rf dist",
     "build": "npm run clean && tsc",

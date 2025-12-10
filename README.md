@@ -15,6 +15,7 @@
 - to write CSS, go to `public/link.css`
 - for local development, run `npm run dev`
 - compiled JavaScript files can be found in `dist/`
+- drag the index.html file from your file explorer to your browser
 
 ## My notes on how I created the starter template
 
